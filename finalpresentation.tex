@@ -20,6 +20,9 @@
 \usepackage{graphicx}
 %\usepackage{bm}         % For typesetting bold math (not \mathbold)
 %\logo{\includegraphics[height=0.6cm]{yourlogo.eps}}
+
+\graphicspath{{./extra/}}
+
 %
 \title[Graphical models of obesity]{A set of graphical models to explore the effects of globalization and development on the prevalence of obesity}
 \author{Shannon Cebron}
@@ -198,32 +201,52 @@ Johns Hopkins University \\
 
 \begin{frame}
 \frametitle{Preliminary work: data analysis}
-Visualization of these data in RStudio
+\begin{figure}
+\label{fig:dataframe}
+\caption{Visualization of these data in RStudio}
+\centering
+\includegraphics{dataframe_R.PNG}
+\end{figure}
 %use dataframe_R.PNG
 \end{frame}
 
 \begin{frame}
 \frametitle{Preliminary work: data analysis}
-Simple regression of obesity rate on education expenditures
-%use edu_plot.PNG
+\begin{figure}
+\label{fig:simreg}
+\caption{Simple regression of obesity rate on education expenditures}
+\centering
+\includegraphics{edu_regression.PNG}
+\end{figure}
 \end{frame}
 
 \begin{frame}
 \frametitle{Preliminary work: data analysis}
-Plot of obesity rate against education expenditures, overlaid with regression line
-%use edu_regression.PNG
+\begin{figure}
+\label{fig:edu_xp}
+\caption{Plot of obesity rate against education expenditures, overlaid with regression line}
+\includegraphics[scale=0.6]{edu_plot.PNG}
+\end{figure}
 \end{frame}
 
 \begin{frame}
 \frametitle{Preliminary work: data analysis}
-Multiple linear regression of obesity rate against all basic independent variables
-%use multi_regression.PNG
+\begin{figure}
+\label{fig:multireg}
+\caption{Multiple linear regression of obesity rate against basic independent variables}
+\centering
+\includegraphics[scale=0.9]{multi_regression.PNG}
+\end{figure}
 \end{frame}
 
 \begin{frame}
 \frametitle{Preliminary work: data analysis}
-Scatterplot matrix showing relationship between obesity rate and other independent variables
-%use scatter_matrix.PNG
+\begin{figure}
+\label{fig:scatter}
+\caption{Scatterplox matrix of several relationships}
+\centering
+\includegraphics[scale=0.65]{scatter_matrix.PNG}
+\end{figure}
 \end{frame}
 
 \begin{frame}
@@ -234,7 +257,13 @@ Scatterplot matrix showing relationship between obesity rate and other independe
 \\
 -Log per person imports has a strong linear relationship with obesity rate (p=0.00000027)
 \end{block}
-%use ppimports_log.PNG
+
+\begin{figure}
+\label{fig:logs}
+\caption{Log(imports) takes on a stronger relationship with the data}
+\centering
+\includegraphics[scale=0.4]{ppimports_log.PNG}
+\end{figure}
 %blue line is better regression fit using log imports
 \end{frame}
 

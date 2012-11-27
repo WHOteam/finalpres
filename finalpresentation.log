@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.9.15)  27 NOV 2012 16:27
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.9.15)  27 NOV 2012 16:54
 entering extended mode
 **finalpresentation.tex
 
@@ -710,21 +710,23 @@ Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 meinfolines.sty"
 Package: beamerouterthemeinfolines 2012/05/30  (rcs-revision cbdb60c45607)
 ))
-No file finalpresentation.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+(C:\Users\Shanbogen\Documents\Schoolwork\MathModeling\finalpres\finalpresentati
+on.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -774,7 +776,7 @@ LaTeX Font Info:    ... okay on input line 36.
 \everyMPtoPDFconversion=\toks41
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 36.
+Package hyperref Info: Link coloring OFF on input line 39.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -784,52 +786,57 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count159
 )
-LaTeX Info: Redefining \ref on input line 36.
-LaTeX Info: Redefining \pageref on input line 36.
-LaTeX Info: Redefining \nameref on input line 36.
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
+
+(C:\Users\Shanbogen\Documents\Schoolwork\MathModeling\finalpres\finalpresentati
+on.out)
+(C:\Users\Shanbogen\Documents\Schoolwork\MathModeling\finalpres\finalpresentati
+on.out)
 \@outlinefile=\write5
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 36.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 39.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 36.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 36.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 36.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 36.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 36.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 39.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 39.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 36.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 36.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 36.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 36.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 36.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 39.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
 -basic-dictionary\translator-basic-dictionary-English.dict"
@@ -855,12 +862,13 @@ Dictionary: translator-numbers-dictionary, Language: English
 -theorem-dictionary\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 36.
+LaTeX Info: Redefining \includegraphics on input line 39.
 
-No file finalpresentation.nav.
+(C:\Users\Shanbogen\Documents\Schoolwork\MathModeling\finalpres\finalpresentati
+on.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 40.
+(Font)              size <5> substituted on input line 43.
 
 [1
 
@@ -889,57 +897,120 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [13
 
-] [14
+]
+<./extra/dataframe_R.PNG, id=110, 543.2295pt x 238.491pt>
+File: ./extra/dataframe_R.PNG Graphic file (type png)
 
-] [15
+<use ./extra/dataframe_R.PNG>
+Package pdftex.def Info: ./extra/dataframe_R.PNG used on input line 211.
+(pdftex.def)             Requested size: 543.22816pt x 238.4904pt.
 
-] [16
+Overfull \hbox (200.93286pt too wide) in paragraph at lines 211--211
+ [] 
+ []
 
-] [17
 
-] [18
+Overfull \vbox (62.61983pt too high) detected at line 211
+ []
 
-] [19
+[14
 
-] [20
+ <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/datafram
+e_R.PNG>] <./extra/edu_regression.PNG, id=120, 312.56775pt x 169.8345pt>
+File: ./extra/edu_regression.PNG Graphic file (type png)
+
+<use ./extra/edu_regression.PNG>
+Package pdftex.def Info: ./extra/edu_regression.PNG used on input line 221.
+(pdftex.def)             Requested size: 312.56697pt x 169.83408pt.
+ [15
+
+ <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/edu_regr
+ession.PNG>]
+<./extra/edu_plot.PNG, id=129, 487.22025pt x 318.59026pt>
+File: ./extra/edu_plot.PNG Graphic file (type png)
+
+<use ./extra/edu_plot.PNG>
+Package pdftex.def Info: ./extra/edu_plot.PNG used on input line 230.
+(pdftex.def)             Requested size: 292.3344pt x 191.15562pt.
+
+Overfull \vbox (14.02948pt too high) detected at line 230
+ []
+
+[16
+
+ <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/edu_plot
+.PNG>] <./extra/multi_regression.PNG, id=138, 309.5565pt x 263.18324pt>
+File: ./extra/multi_regression.PNG Graphic file (type png)
+
+<use ./extra/multi_regression.PNG>
+Package pdftex.def Info: ./extra/multi_regression.PNG used on input line 240.
+(pdftex.def)             Requested size: 278.59827pt x 236.86273pt.
+
+Overfull \vbox (57.79214pt too high) detected at line 240
+ []
+
+[17
+
+ <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/multi_re
+gression.PNG>]
+<./extra/scatter_matrix.PNG, id=147, 475.7775pt x 309.5565pt>
+File: ./extra/scatter_matrix.PNG Graphic file (type png)
+
+<use ./extra/scatter_matrix.PNG>
+Package pdftex.def Info: ./extra/scatter_matrix.PNG used on input line 250.
+(pdftex.def)             Requested size: 309.2517pt x 201.20934pt.
+
+Overfull \vbox (13.6832pt too high) detected at line 250
+ []
+
+[18
+
+ <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/scatter_
+matrix.PNG>] <./extra/ppimports_log.PNG, id=156, 481.19775pt x 307.1475pt>
+File: ./extra/ppimports_log.PNG Graphic file (type png)
+
+<use ./extra/ppimports_log.PNG>
+Package pdftex.def Info: ./extra/ppimports_log.PNG used on input line 268.
+(pdftex.def)             Requested size: 192.4757pt x 122.85681pt.
+
+Overfull \vbox (19.72452pt too high) detected at line 268
+ []
+
+[19
+
+ <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/ppimport
+s_log.PNG>] [20
 
 ] [21
 
-]
-[22
+] [22
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 263.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
 
 (C:\Users\Shanbogen\Documents\Schoolwork\MathModeling\finalpres\finalpresentati
 on.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 263.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 263.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
+Package rerunfilecheck Info: File `finalpresentation.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
-
-Package rerunfilecheck Warning: File `finalpresentation.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `finalpresentation.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
  ) 
 Here is how much of TeX's memory you used:
- 15396 strings out of 494045
- 289374 string characters out of 3148375
- 364960 words of memory out of 3000000
- 18303 multiletter control sequences out of 15000+200000
- 6466 words of font info for 23 fonts, out of 3000000 for 9000
+ 15519 strings out of 494045
+ 291892 string characters out of 3148375
+ 365283 words of memory out of 3000000
+ 18404 multiletter control sequences out of 15000+200000
+ 6771 words of font info for 24 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  49i,16n,57p,439b,660s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
@@ -947,9 +1018,9 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on finalpresentation.pdf (22 pages, 109148 bytes).
+Output written on finalpresentation.pdf (22 pages, 193682 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
