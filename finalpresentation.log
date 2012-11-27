@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.9.15)  27 NOV 2012 16:54
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.9.15)  27 NOV 2012 17:09
 entering extended mode
 **finalpresentation.tex
 
@@ -866,39 +866,106 @@ LaTeX Info: Redefining \includegraphics on input line 39.
 
 (C:\Users\Shanbogen\Documents\Schoolwork\MathModeling\finalpres\finalpresentati
 on.nav)
+Overfull \hbox (93.41638pt too wide) in paragraph at lines 39--39
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 43.
 
+
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
 
-] [3
-
-] [4
-
-] [5
+[2
 
 ]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[3
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[4
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[5
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
 [6
 
-] [7
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
 
-] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
+[7
 
 ]
-<./extra/dataframe_R.PNG, id=110, 543.2295pt x 238.491pt>
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[8
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[9
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[10
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[11
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[12
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[13
+
+] <./extra/dataframe_R.PNG, id=110, 543.2295pt x 238.491pt>
 File: ./extra/dataframe_R.PNG Graphic file (type png)
 
 <use ./extra/dataframe_R.PNG>
@@ -913,6 +980,11 @@ Overfull \hbox (200.93286pt too wide) in paragraph at lines 211--211
 Overfull \vbox (62.61983pt too high) detected at line 211
  []
 
+
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
 [14
 
  <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/datafram
@@ -922,11 +994,15 @@ File: ./extra/edu_regression.PNG Graphic file (type png)
 <use ./extra/edu_regression.PNG>
 Package pdftex.def Info: ./extra/edu_regression.PNG used on input line 221.
 (pdftex.def)             Requested size: 312.56697pt x 169.83408pt.
- [15
+
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[15
 
  <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/edu_regr
-ession.PNG>]
-<./extra/edu_plot.PNG, id=129, 487.22025pt x 318.59026pt>
+ession.PNG>] <./extra/edu_plot.PNG, id=129, 487.22025pt x 318.59026pt>
 File: ./extra/edu_plot.PNG Graphic file (type png)
 
 <use ./extra/edu_plot.PNG>
@@ -934,6 +1010,11 @@ Package pdftex.def Info: ./extra/edu_plot.PNG used on input line 230.
 (pdftex.def)             Requested size: 292.3344pt x 191.15562pt.
 
 Overfull \vbox (14.02948pt too high) detected at line 230
+ []
+
+
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 [16
@@ -947,6 +1028,11 @@ Package pdftex.def Info: ./extra/multi_regression.PNG used on input line 240.
 (pdftex.def)             Requested size: 278.59827pt x 236.86273pt.
 
 Overfull \vbox (57.79214pt too high) detected at line 240
+ []
+
+
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 [17
@@ -963,6 +1049,11 @@ Package pdftex.def Info: ./extra/scatter_matrix.PNG used on input line 250.
 Overfull \vbox (13.6832pt too high) detected at line 250
  []
 
+
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
 [18
 
  <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/scatter_
@@ -976,26 +1067,46 @@ Package pdftex.def Info: ./extra/ppimports_log.PNG used on input line 268.
 Overfull \vbox (19.72452pt too high) detected at line 268
  []
 
+
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
 [19
 
  <C:/Users/Shanbogen/Documents/Schoolwork/MathModeling/finalpres/extra/ppimport
-s_log.PNG>] [20
+s_log.PNG>]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
 
-] [21
+[20
 
-] [22
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[21
+
+]
+Overfull \hbox (93.41638pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[22
 
 ]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 301.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 301.
 
 (C:\Users\Shanbogen\Documents\Schoolwork\MathModeling\finalpres\finalpresentati
 on.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 301.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 301.
 Package rerunfilecheck Info: File `finalpresentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1003,12 +1114,12 @@ Package rerunfilecheck Info: File `finalpresentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 292.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 301.
  ) 
 Here is how much of TeX's memory you used:
  15519 strings out of 494045
  291892 string characters out of 3148375
- 365283 words of memory out of 3000000
+ 367448 words of memory out of 3000000
  18404 multiletter control sequences out of 15000+200000
  6771 words of font info for 24 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
@@ -1018,7 +1129,7 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on finalpresentation.pdf (22 pages, 193682 bytes).
+Output written on finalpresentation.pdf (22 pages, 195528 bytes).
 PDF statistics:
  213 PDF objects out of 1000 (max. 8388607)
  51 named destinations out of 1000 (max. 500000)
